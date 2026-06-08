@@ -204,6 +204,15 @@ legend {
             background-color: #9f0d25;
         }
 
+footer {
+    background-color: #c8102e;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
 @media screen and (max-width: 700px) {
     body {
         background-attachment: scroll;
